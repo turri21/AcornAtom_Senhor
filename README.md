@@ -1,3 +1,7 @@
+=(AcornAtom_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
 # Acorn_Atom_MiSTer
 
 Acorn Atom for MiSTer FPGA
