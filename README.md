@@ -1,3 +1,8 @@
+=(AcornAtom_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+___
 # Acorn_Atom_MiSTer
 
 Acorn Atom for MiSTer FPGA
@@ -44,3 +49,4 @@ To auto boot the software menu Shift-Break(f10), Ctrl-Break disables the MMC Rom
 The best software source is the AtomSoftwareArchive V11 zip 11.9MB
 
 There are several sites dedicated to the atom.
+
